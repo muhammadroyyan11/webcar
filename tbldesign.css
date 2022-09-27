@@ -1,0 +1,24 @@
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style2 {font-family: Arial, Helvetica, sans-serif;
+font-size:18px;
+font-weight:bold}
+table.tbl{ border-style:groove}
+td.t1{background-color:#CCFFFF; color:#000000; font-size:small; font-family:Arial, Helvetica, sans-serif;}
+td.t3{background-color:#669900; color:#FFCC00; font-size:small; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+td.t4{background-color:#999999; color:#FFFFFF; font-size:small; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+th.t2{background-color:#99CCFF; color:#000000; font-size:small; font-family:Arial, Helvetica, sans-serif;}
+td.t2{background-color:#99CCFF; color:#000000; font-size:small; font-family:Arial, Helvetica, sans-serif;}
+p.p{color:#663300; font-size:medium; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+td.t3{background-color:#CCFFCC}
+p.p1{color:#9933FF; font-size:medium; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+td.t5{background-color:#99CCFF; color:#006699; font-size:small; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+tr.t5{background-color:#CCFFFF; color:#006699; font-size:small; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
+
+
+
+
+
+
